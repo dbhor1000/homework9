@@ -10,7 +10,7 @@ public class Main {
 
         ///Task 1
 
-        double sum = 1;
+        double sum = 0;
 
         for(int element: arr){
 
@@ -29,7 +29,7 @@ public class Main {
 
         ///Task 3
 
-        double average = 0;
+        double average = 1;
         average = sum / arr.length;
         String averageRounded = String.format("%.4f", average);
 
