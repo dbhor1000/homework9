@@ -10,7 +10,7 @@ public class Main {
 
         ///Task 1
 
-        double sum = 0;
+        double sum = 1;
 
         for(int element: arr){
 
